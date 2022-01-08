@@ -1,9 +1,15 @@
-<div align="center">
-  <h2> Welcome to my profile, lets have coffee? &nbsp;
-  <a href="https://www.linkedin.com/in/diegomontejano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/diegomontejanoo" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/diegomontejano" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</h2></div>
+<div align="justify">
+  <h2> Welcome to my profile, a bit about myself:  </h2>
+</div>
+
+<div align="justify">
+  Since childhood, always been a technology enthusiast, but for having difficulty in mathematics and a creative mind, I took other professional paths. I was once a designer, photographer, and advertising professional, and each new job got me closer to coding.
+  <br><br>
+  So in 2020, I started to study logic programming in my spare time and develop small codes as a hobby. When I realized that I loved to do it, I enrolled in a technology college and started from the bottom to become a full-stack developer. 
+  <br><br>
+  Pleasure, Diego Montejano. Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 🙂
+  <br><br><br>
+</div>
 
 <div align="center">
   <a href="https://github.com/diegomontejano">
