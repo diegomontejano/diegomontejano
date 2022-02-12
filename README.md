@@ -2,9 +2,9 @@
 
 <div align="justify">
   <p>
-  Since childhood, always been a technology enthusiast, but for having difficulty in mathematics and a creative mind, I took other professional paths. I was once a photographer, designer and advertising professional, and each new job got me closer to coding.
+  Since childhood, always been a technology enthusiast, but for having difficulty in mathematics and a creative mind, I took other professional paths. I was once a photographer, designer, and advertising professional, and each new job got me closer to coding. 
   <br><br>
-  So in 2020, I started to study logic programming in my spare time and develop small codes as a hobby. When I realized that I loved to do it, I enrolled in a technology college and started from the bottom to become a full-stack developer. 
+  So after finishing my first college in Marketing, I started to study logic programming in my spare time and develop small codes as a hobby. When I realized that could combine my creative experience with programming, I enrolled in a technology college and restarted from the bottom to develop amazing digital products.
   <br><br>
   Pleasure, Diego Montejano. Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 🙂
   <br><br>
