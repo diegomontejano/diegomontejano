@@ -4,7 +4,7 @@
   <p>
   Since childhood, always been a technology enthusiast, but for having difficulty in mathematics and a creative mind, I took other professional paths. I was once a photographer, designer, and advertising professional, and each new job got me closer to coding. 
   <br><br>
-  So after finishing my first college in Marketing, I started to study logic programming in my spare time and develop small codes as a hobby. When I realized that could combine my creative skills with programming, I enrolled in a technology college and restarted from the bottom to develop amazing digital products.
+  So after finishing my first college in Marketing, I started to study logic programming in my spare time and develop small codes as a hobby. When I realized that could combine my creative skills with programming, I enrolled in a technology college and restarted from the bottom to create amazing digital products.
   <br><br>
   Pleasure, Diego Montejano. Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 🙂
   <br><br>
