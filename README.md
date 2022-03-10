@@ -1,4 +1,4 @@
-<h2> Welcome to my profile, a bit about myself: </h2>
+<h2> Welcome to my profile, let's work together? </h2>
 
 <div align="justify">
   <p>
