@@ -1,14 +1,12 @@
 <h2> Welcome to my profile, let's work together? </h2>
 
 <div align="justify">
-  <p>
   UI Designer | Mobile Developer | Flutter Developer | Frontend Developer | Technology Enthusiast | Creative and Innovative Person
   <br><br>
-  Look at my last app project: https://youtu.be/a3xuMWXf_Ss
+  My Last App: https://youtu.be/a3xuMWXf_Ss 📱
   <br>
-  Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 🙂
+  My LinkedIn: https://www.linkedin.com/in/diegomontejano 🙂
   <br><br>
-  </p>
 </div>
 
 <div align="center">
