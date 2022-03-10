@@ -2,11 +2,11 @@
 
 <div align="justify">
   <p>
-  Since childhood, always been a technology enthusiast, but for having difficulty in mathematics and a creative mind, I took other professional paths. I was once a photographer, designer, and advertising professional, and each new job got me closer to coding. 
+  UI Designer | Mobile Developer | Flutter Developer | Frontend Developer | Technology Enthusiast | Creative and Innovative Person
   <br><br>
-  So after finishing my first college in Marketing, I started to study logic programming in my spare time and develop small codes as a hobby. When I realized that could combine my creative experience with programming, I enrolled in a technology college and restarted from the bottom to become a full-stack developer.
-  <br><br>
-  Pleasure, Diego Montejano. Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 🙂
+  Look at my last app project: https://youtu.be/a3xuMWXf_Ss
+  <br>
+  Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 🙂
   <br><br>
   </p>
 </div>
