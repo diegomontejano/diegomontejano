@@ -1,4 +1,4 @@
-<h2> Welcome to my profile, let's work together? </h2>
+<h2> Welcome to my profile. Let's have a Coffee? </h2>
 
 <div align="justify">
   UI Designer | Mobile Developer | Flutter Developer | Frontend Developer | Future Full-Stack Developer | Technology Enthusiast | Creative and Innovative Person | Minecraft Gamer | Coffee Lover
