@@ -1,7 +1,7 @@
 <h2> Welcome to my profile, let's work together? </h2>
 
 <div align="justify">
-  UI Designer | Mobile Developer | Flutter Developer | Frontend Developer | Technology Enthusiast | Creative and Innovative Person | Minecraft Gamer | Coffee Lover
+  UI Designer | Mobile Developer | Flutter Developer | Frontend Developer | Future Full-Stack Developer | Technology Enthusiast | Creative and Innovative Person | Minecraft Gamer | Coffee LoverLover
   <br><br>
   App Developed in January 2022: https://youtu.be/WT3HMtRw1Yw 📱
   <br>
