@@ -3,11 +3,13 @@
 <div align="justify">
   Flutter Developer | Mobile Developer | UI/UX Designer | Technology Enthusiast | Creative Person | Minecraft Gamer | Coffee Lover
   <br><br>
-  App Developed in January 2022: https://youtu.be/WT3HMtRw1Yw 📱
+  App developed in January 2022: https://youtu.be/WT3HMtRw1Yw 📱
   <br>
-  App Developed in March 2022: https://youtu.be/a3xuMWXf_Ss 📱
+  App developed in March 2022: https://youtu.be/a3xuMWXf_Ss 📱
   <br>
-  My LinkedIn: https://www.linkedin.com/in/diegomontejano 🙂
+  Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 🙂
+  <br>
+  Visit my Website: https://www.diegomontejano.com 🙂
   <br><br>
 </div>
 
