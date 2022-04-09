@@ -1,7 +1,7 @@
 <h2> Welcome to my profile. Let's have a Coffee? </h2>
 
 <div align="justify">
-  Flutter Developer | Mobile Developer | UI/UX Designer | Technology Enthusiast 
+  Flutter Developer | Swift Developer | Mobile Engineer
   <br><br>
   App developed in January 2022: https://youtu.be/WT3HMtRw1Yw 📱
   <br>
