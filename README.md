@@ -7,9 +7,9 @@
   <br>
   App developed in March 2022: https://youtu.be/a3xuMWXf_Ss 📱
   <br>
-  Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 🙂
+  Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 👨‍💻
   <br>
-  Visit my Website: https://www.diegomontejano.com 🙂
+  Visit my Website: https://www.diegomontejano.com 👨‍💻
   <br><br>
 </div>
 
