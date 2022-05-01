@@ -3,9 +3,7 @@
 <div align="justify">
   Flutter Developer | Swift Developer | Mobile Engineer
   <br><br>
-  App developed in January 2022: https://youtu.be/WT3HMtRw1Yw 📱
-  <br>
-  App developed in March 2022: https://youtu.be/a3xuMWXf_Ss 📱
+  My Last App Project: https://youtu.be/a3xuMWXf_Ss 📱
   <br>
   Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 👨‍💻
   <br>
