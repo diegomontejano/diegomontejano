@@ -3,7 +3,7 @@
 <div align="justify">
   Flutter Developer | Swift Developer | Mobile Engineer
   <br><br>
-  My Last App Project: https://youtu.be/a3xuMWXf_Ss 📱
+  My Recent App: https://youtu.be/a3xuMWXf_Ss 📱
   <br>
   Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 👨‍💻
   <br>
