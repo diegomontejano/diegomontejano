@@ -1,8 +1,6 @@
-<h2> Welcome to my profile. Let's have a Coffee? </h2>
+<h2> iOS Developer | Flutter Developer | Mobile Engineer </h2>
 
 <div align="justify">
-  iOS Developer | Flutter Developer | Mobile Engineer
-  <br><br>
   My Recent App: https://youtu.be/a3xuMWXf_Ss 📱
   <br>
   Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 👨‍💻
