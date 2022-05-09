@@ -1,4 +1,4 @@
-<h2> iOS Developer | Flutter Developer | Mobile Engineer </h2>
+<h2> Flutter Developer | Mobile Developer | Mobile Engineer </h2>
 
 <div align="justify">
   Look my Recent App: https://youtu.be/a3xuMWXf_Ss 📱
