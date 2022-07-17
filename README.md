@@ -1,9 +1,9 @@
 <h2> iOS Developer | Flutter Developer | Mobile Engineer </h2>
 
 <div align="justify">
-  Look my Portfolio: https://www.diegomontejano.com 👨‍💻
+  Look my Portfolio: www.diegomontejano.com 👨‍💻
   <br>
-  Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 👨‍💻
+  Visit my LinkedIn: www.linkedin.com/in/diegomontejano 👨‍💻
   <br>
   <br><br>
 </div>
