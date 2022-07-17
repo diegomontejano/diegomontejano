@@ -1,11 +1,10 @@
 <h2> iOS Developer | Flutter Developer | Mobile Engineer </h2>
 
 <div align="justify">
-  Look my Recent App: https://youtu.be/a3xuMWXf_Ss 📱
+  Look my Portfolio: https://www.diegomontejano.com 👨‍💻
   <br>
   Visit my LinkedIn: https://www.linkedin.com/in/diegomontejano 👨‍💻
   <br>
-  Visit my Website: https://www.diegomontejano.com 👨‍💻
   <br><br>
 </div>
 
