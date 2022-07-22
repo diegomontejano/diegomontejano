@@ -4,8 +4,7 @@
   Look my Portfolio: <a href="https://diegomontejano.com" target="_blank">diegomontejano.com 👨‍💻</a> 
   <br>
   Visit my LinkedIn: <a href="https://linkedin.com/in/diegomontejano" target="_blank">linkedin.com/in/diegomontejano 👨‍💻</a>
-  <br>
-  <br><br>
+  <br><br><br>
 </div>
 
 <div align="center">
