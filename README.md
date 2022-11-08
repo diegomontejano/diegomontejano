@@ -1,4 +1,4 @@
-<h2> iOS Developer | Flutter Developer | Mobile Developer </h2>
+<h2> iOS Developer | Flutter Developer </h2>
 
 <div align="justify">
   My Portfolio: <a href="https://diegomontejano.com" target="_blank">diegomontejano.com 👨‍💻</a> 
