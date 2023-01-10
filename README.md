@@ -1,9 +1,9 @@
 <h2> iOS Developer | Flutter Developer | Mobile Developer </h2>
 
 <div align="justify">
-  My Portfolio: <a href="https://diegomontejano.com" target="_blank">diegomontejano.com 👨‍💻</a> 
+  Visit my website: <a href="https://diegomontejano.com" target="_blank">diegomontejano.com 👨‍💻</a> 
   <br>
-  My LinkedIn: <a href="https://linkedin.com/in/diegomontejano" target="_blank">linkedin.com/in/diegomontejano 👨‍💻</a>
+  Visit my LinkedIn: <a href="https://linkedin.com/in/diegomontejano" target="_blank">linkedin.com/in/diegomontejano 👨‍💻</a>
   <br><br><br>
 </div>
 
