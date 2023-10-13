@@ -1,4 +1,4 @@
-<h2>  Mobile developer specialized in iOS and Flutter </h2>
+<h2>  Software developer specialized in iOS and Flutter </h2>
 
 <div align="justify">
   Visit my website: <a href="https://diegomontejano.com" target="_blank">diegomontejano.com 👨‍💻</a> 
