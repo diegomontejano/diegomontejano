@@ -1,8 +1,6 @@
 <h2> Senior software developer specialized in iOS and Flutter </h2>
 
 <div align="justify">
-  Visit my website: <a href="https://diegomontejano.com" target="_blank">diegomontejano.com 👨‍💻</a> 
-  <br>
   Visit my LinkedIn: <a href="https://linkedin.com/in/diegomontejano" target="_blank">linkedin.com/in/diegomontejano 👨‍💻</a>
   <br><br><br>
 </div>
