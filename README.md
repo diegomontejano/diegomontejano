@@ -1,7 +1,7 @@
-<h2> Senior software developer specialized in iOS and Flutter </h2>
+<h2> Senior mobile developer specialized in iOS and Flutter </h2>
 
 <div align="justify">
-  Visit my LinkedIn: <a href="https://linkedin.com/in/diegomontejano" target="_blank">linkedin.com/in/diegomontejano 👨‍💻</a>
+  Visit my LinkedIn: <a href="https://linkedin.com/in/diegomontejano" target="_blank">linkedin.com/in/diegomontejano</a>
   <br><br><br>
 </div>
 
